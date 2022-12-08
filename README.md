@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate developer from Czech Republic</h3>
 
-- 🔭 I’m currently working on **2022 Advent Calendar Challenge**
+- 🔭 I’m currently working on **2022 Advent Calendar Challenge, Job, Self-improvement**
 
 - 🌱 I’m currently learning **React, C#, Python, TS, SQL**
 
