@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any other project where I can learn**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Vue, Self-improvement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
